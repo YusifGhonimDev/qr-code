@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/YusifGhonimDev/product-preview](https://github.com/YusifGhonimDev/product-preview)
-- Live Site URL: [https://yusifghonimdev.github.io/product-preview/](https://yusifghonimdev.github.io/product-preview/)
+- Solution URL: [https://github.com/YusifGhonimDev/product-preview](https://github.com/YusifGhonimDev/qr-code)
+- Live Site URL: [https://yusifghonimdev.github.io/product-preview/](https://yusifghonimdev.github.io/qr-code)
 
 ## My process
 
